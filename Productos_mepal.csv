@@ -1,0 +1,25 @@
+1;Pupitre simple;Colegio;10000;70000
+2;Pupitre conjunto;Colegio;10000;90000
+3;Pupitre computador;Colegio;10000;75000
+4;Silla little;Hotel/Restaurante;10000;90000
+5;Silla perillo;Hotel/Restaurante;8000;75000
+6;Silla drop;Hotel/Restaurante;8000;75000
+7;Silla Class;Hotel/Restaurante;8000;75000
+8;Silla Moema;Hotel/Restaurante;8000;70000
+9;Silla Fogo;Hotel/Restaurante;9000;80000
+10;Silla oficina;Oficina;7000;90000
+11;Silla Contessa;Oficina;7000;90000
+12;Silla Sabrina;Oficina;7000;90000
+13;Silla Bravo;Oficina;7000;90000
+14;Silla Equity;Oficina;7000;90000
+15;Silla Lai;Oficina;8000;95000
+16;Silla Luxo;Oficina;8000;97000
+17;Silla Visconte;Oficina;8000;95000
+18;Division vetro;Oficina;10000;120000
+19;Division recepcion;Oficina;10000;120000
+20;Division multiple;Oficina;11000;150000
+21;Archivador Koncisa;Oficina;20000;220000
+22;Archivo multiple zen;Oficina;20000;250000
+23;Escritorio Koncisa;Oficina;15000;200000
+24;Mesa reunion;Oficina;20000;500000
+25;Mesa ejecutiva;Oficina;10000;400000

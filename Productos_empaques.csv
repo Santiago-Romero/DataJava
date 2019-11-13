@@ -1,0 +1,30 @@
+1;Tetrapack;Lacteos;50;500
+2;Tarrina botella leche;Lacteos;30;300
+3;Tapa botella leche;Lacteos;3;10
+4;Tapa botella jugos;Frutas;2;10
+5; Caja pastas;Farmacos;2;10
+6;Botella jarabe;Farmacos;5;20
+7;Tarrina postre;Frutas;20;180
+8;Cuchara;Utensilios;1;8
+9;Cuchillo;Utensilios;1;8
+10;Tenedor;Utensilios;1;8
+11;Plato pando;Utensilios;5;20
+12;Plato hondo;Utensilios;6;30
+13;Plato semihondo;Utensilios;5;30
+14;Vaso peq icopor;Utensilios;4;20
+15;Vaso med icopor;Utensilios;4;20
+16;Icopor;Utensilios;4;20
+17;Vasija plastico;Utensilios;5;30
+18;Copa plastico;Utensilios;6;40
+19;Bandeja;Utensilios;5;20
+20;Plato icopor;Utensilios;10;50
+21;Contenedor de tres;Contenedor;10;50
+22;Contenedor de uno;Contenedor;10;50
+23;Contenedor de cuatro;Contenedor;10;50
+24;Contenedor aluminio grande;Contenedor;20;100
+25;Contenedor aluminio mediano;Contenedor;15;70
+26;Contenedor aluminio peque;Contenedor;10;50
+27;Malla para redondos;Frutas;5;25
+28;Panales de huevos;Contenedor;10;30
+29;Bandeja baja;Carnes;5;25
+30;Nevera de carnes;Carnes;100;500
